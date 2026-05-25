@@ -143,7 +143,9 @@ thiruvidaikazhi.html
 
 
 # OUTPUT
-![alt text](map.png)
+![alt text](indu/mapapp/static/map.png)
+
+
 ![alt text](home.png)
 ![alt text](thiruvidaikazhi.png)
 ![alt text](kuthalam.png)
